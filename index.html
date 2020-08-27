@@ -4,21 +4,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/styles.css">
     <title>To-Do App</title>
 </head>
 
 <body>
-    <h1>To-Do App</h1>
+    <div class="container">
+        <h1>To-Do App</h1>
 
-    <form action="" id="ourForm">
-        <input type="text" name="" id="ourField" autocomplete="off">
-        <button>Create Item</button>
-    </form>
+        <form action="" id="ourForm">
+            <input type="text" name="" id="ourField" autocomplete="off">
+            <button id="create-btn" class="btn btn-secondary">Create Item</button>
+        </form>
 
-    <h3>Need To Do</h3>
-    <ul id="ourList">
-    </ul>
+        <h3>Need To Do</h3>
+        <ul id="ourList">
+            <div id="spacer"></div>
+        </ul>
+    </div>
 
     <script src="js/scripts.js"></script>
 </body>

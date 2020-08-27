@@ -1,0 +1,42 @@
+.container {
+    box-shadow: 0 0 0 15px #333333;
+    margin-top: 15px;
+    padding: 0;
+}
+
+#create-btn {
+    margin: 0 0 0 15px;
+}
+
+#delete-btn {
+    margin: 0 0 0 15px;
+}
+
+h1,
+h3 {
+    padding: 15px 0 15px 15px;
+}
+
+#ourField {
+    margin: 0 0 0 15px;
+}
+
+#ourList {
+    box-shadow: 2px 0 0 0 #333333;
+    background-color: #333333;
+    color: #ffffff;
+    padding: 0 0 0 40px;
+}
+
+li {
+    margin: 35px 0 0 0;
+}
+
+#spacer {
+    height: 3px;
+}
+
+ul li:last-child {
+    border-bottom: #333333 solid 5px;
+    padding: 0 0 15px 0;
+}

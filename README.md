@@ -1,10 +1,10 @@
 # To-Do App
 
-## This is a javascript app allowing a user to create a to-do list and delete items from said list. 
+## This is a JavaScript app allowing a user to create a to-do list and delete items from said list. 
 
 ## By Zack Worrix
 
-# Javascript Practice
+# JavaScript Practice
 
 ## Setup/Installation
 
